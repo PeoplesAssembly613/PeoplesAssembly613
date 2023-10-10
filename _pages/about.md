@@ -27,9 +27,11 @@ comments: true
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>Find us on other platforms</h5>
 
 <p>Visit our <a href="https://www.instagram.com/anti.imperialist.alliance/">Instagram</a>.</p>
+
+<p>Send us an <a href="mailto:peoplesassembly613@protonmail.com">email</a>.</p>
 
 </div>
 </div>
