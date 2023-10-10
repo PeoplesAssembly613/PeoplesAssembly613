@@ -5,9 +5,6 @@ permalink: /about
 comments: false
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
-
 <p>Our Turn is a project dedicated to highlighting the struggles faced by working people and tenants, and bringing attention to the ways that ordinary people can get organized and fight for something better. We will publish articles telling the stories of tenants and workers in their struggles against injustice, and analyzing developments in our community and elsewhere.</p>
 
 <p>In an era when Ottawa and other cities are being devastated by a system that turns human needs into private profit, it is more important than ever to build solidarity among ordinary people. We hope that Our Turn can be a forum for tenants and working people to share our experiences, develop our collective understanding, and strengthen our sense of community. /p>
@@ -16,17 +13,3 @@ comments: false
 
 <p>The ruling class has engineered the housing crisis, and working people are feeling the consequences. The powerful will not go against their own interests. It is time for us to take action.</p>
 
-</div>
-
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Find us on other platforms</h5>
-
-<p>Visit our <a href="https://www.instagram.com/anti.imperialist.alliance/">Instagram</a>.</p>
-
-<p>Send us an <a href="mailto:peoplesassembly613@protonmail.com">email</a>.</p>
-
-</div>
-</div>
-</div>
