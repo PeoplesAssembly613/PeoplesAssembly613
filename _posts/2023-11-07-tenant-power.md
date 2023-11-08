@@ -55,5 +55,6 @@ Since June, we have been working to follow up on that event, to talk to our neig
 
 If you would like to join us in getting together to build tenant power, please reach out to us at the contact information below:
 
-[Email us](mailto:peoplesassembly613@protonmail.com
+[Email us](mailto:peoplesassembly613@protonmail.com)
+
 [Sign up for the People's Assembly](https://docs.google.com/forms/d/e/1FAIpQLScBxPSMpSS2qPxb-HyyX8RSJPluu5p4_wuMayUtAfe715C9ig/viewform?usp=sf_link)
