@@ -2,8 +2,8 @@
 name: "Our Turn"
 title: "Our Turn"
 description: "A newsletter in support of the tenant struggle"
-logo: 'logo-small.svg'
-favicon: 'logo-small.svg'
+logo: 'logo-long.svg'
+favicon: 'logo-long.svg'
 url: ""
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
