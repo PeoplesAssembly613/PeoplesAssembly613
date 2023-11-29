@@ -11,7 +11,8 @@ author: basil
 
 Who needs a landlord? The mainstream media, the government, and the landlords themselves would all give us the same answer. They would tell us that landlords are necessary. They would tell us that landlords provide a necessary service. 
 
-What service do they provide?  
+What service do they provide? 
+
 They say that landlords are the ones who provide the people with homes! Try not to laugh. 
 
 Big and small landlords do not build the houses and apartments that we live in. People with real jobs do that—workers in the trades. 
