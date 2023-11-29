@@ -6,7 +6,7 @@ categories:
   - articles
 image: assets/images/question-mark.jpg
 featured: true
-author: Basil
+author: basil
 ---
 
 Who needs a landlord? The mainstream media, the government, and the landlords themselves would all give us the same answer. They would tell us that landlords are necessary. They would tell us that landlords provide a necessary service. 
