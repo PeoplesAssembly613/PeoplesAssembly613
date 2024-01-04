@@ -5,7 +5,7 @@ subtitle:
 categories:
   - articles
 image: assets/images/question-mark.jpg
-featured: true
+featured: false
 author: basil
 ---
 
