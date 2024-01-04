@@ -4,7 +4,7 @@ title: Affordable Housing is Being Destroyed
 subtitle: 
 categories:
   - articles
-image: assets/images/for-rent.png
+image: assets/images/house-ruins.jpeg
 featured: true
 author: sean
 ---
