@@ -4,7 +4,7 @@ title:  "Tenant Power!"
 subtitle: "For a People’s Assembly on Housing"
 categories: [articles]
 image: assets/images/tenant-power-rect.png
-featured: true
+featured: false
 ---
 
 “We need to build tenant power. Building-by-building, and block-by-block.”
