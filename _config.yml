@@ -31,6 +31,15 @@ authors:
     web: https://www.ourturn.ca
     twitter: 
     description: "A contributor to Our Turn. Based in Ottawa"
+  sean:
+    name: Sean Ryan
+    display_name: Sean Ryan  
+    avatar: 'assets/images/avatar.png'
+    gravatar: 
+    email: wowthemesnet@gmail.com
+    web: https://www.ourturn.ca
+    twitter: 
+    description:
 
 # Plugins
 plugins:
