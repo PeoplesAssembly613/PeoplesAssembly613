@@ -4,7 +4,7 @@ title: Writing Our Own Future
 subtitle: An Interview With the East Scarborough Tenants Union
 categories:
   - articles
-image: 
+image: assets/images/estu-header.png
 featured: true
 author:
 ---
