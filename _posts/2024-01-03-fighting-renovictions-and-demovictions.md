@@ -5,7 +5,7 @@ subtitle:
 categories:
   - articles
 image: assets/images/for-rent.png
-featured: true
+featured: false
 author: 
 ---
 
