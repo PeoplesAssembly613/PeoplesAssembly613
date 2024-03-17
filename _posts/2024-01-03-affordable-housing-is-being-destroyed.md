@@ -5,7 +5,7 @@ subtitle:
 categories:
   - articles
 image: assets/images/house-ruins.jpeg
-featured: true
+featured: false
 author: sean
 ---
 
