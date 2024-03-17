@@ -6,7 +6,7 @@ categories:
   - articles
 image: assets/images/dollars.jpg
 featured: false
-author: Davide
+author:
 ---
 Pension funds are rarely thought of as exciting institutions, let alone arenas of class warfare. However, the development of pension funds has been deeply shaped by different class interests. They continue to be a constant focal point of struggle, not only here in Canada, but around the world.
 
