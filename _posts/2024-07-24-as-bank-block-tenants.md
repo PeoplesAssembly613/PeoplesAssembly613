@@ -4,7 +4,7 @@ title:  "As Bank Block Tenants, we stand in defence of our homes"
 subtitle:
 categories: [articles]
 image: 
-featured: false
+featured: true
 ---
 
 *The following article is a response to [“A community space in this Ottawa neighbourhood is our goal”](https://ottawacitizen.com/opinion/todays-letters-a-community-space-in-this-ottawa-neighbourhood-is-our-goal) in the Ottawa Citizen, 14-Mar, 2024.*
