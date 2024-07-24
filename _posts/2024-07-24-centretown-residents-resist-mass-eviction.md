@@ -3,7 +3,7 @@ layout: post
 title:  "'I am not going to be a statistic in this housing crisis'"
 subtitle: "Centretown Residents Resist Mass Eviction"
 categories: [articles]
-image: 
+image: assets/images/BBT-evictions.png
 featured: true
 ---
 #### Centretown Residents Resist Mass Eviction
