@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "I’m not going to be a statistic in this housing crisis"
+title:  "'I’m not going to be a statistic in this housing crisis'"
 subtitle: "Centretown Residents Resist Mass Eviction"
 categories: [articles]
 image: 
 featured: false
 ---
+#### Centretown Residents Resist Mass Eviction
 
 For the past year, tenants on Bank Street have been gaining momentum in their resistance to a mass eviction attempt. 
 
