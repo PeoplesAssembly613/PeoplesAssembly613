@@ -6,6 +6,8 @@ categories: [articles, bank block tenants]
 image: assets/images/BBT-evictions.png
 featured: true
 ---
+*Image credit: [Colin White](https://www.instagram.com/colinwhite?igsh=MWpkazRhYm1zdGdsdQ==)*
+
 #### Centretown Residents Resist Mass Eviction
 
 For the past year, tenants on Bank Street have been gaining momentum in their resistance to a mass eviction attempt. 
