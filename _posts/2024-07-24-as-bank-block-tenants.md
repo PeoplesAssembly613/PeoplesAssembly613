@@ -2,7 +2,7 @@
 layout: post
 title:  "As Bank Block Tenants, we stand in defence of our homes"
 subtitle:
-categories: [articles]
+categories: [articles], [bank block tenants]
 image: assets/images/BBT-drawing.jpg
 featured: true
 ---
