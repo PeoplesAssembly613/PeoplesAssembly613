@@ -7,7 +7,7 @@ image: assets/images/BBT-drawing.jpg
 featured: true
 ---
 
-*The following article is a response to [“A community space in this Ottawa neighbourhood is our goal”](https://ottawacitizen.com/opinion/todays-letters-a-community-space-in-this-ottawa-neighbourhood-is-our-goal) in the Ottawa Citizen, 14 Mar, 2024.*
+*The following article is a response to [“A community space in this Ottawa neighbourhood is our goal”](https://ottawacitizen.com/opinion/todays-letters-a-community-space-in-this-ottawa-neighbourhood-is-our-goal) in the Ottawa Citizen, 14 Mar 2024.*
 
 We are the tenants living in 227 Bank Street and 178 Nepean Street being targeted with Mass Eviction by Smart Living Properties (SLP) who purchased the block in 2021 to demolish it. The households targeted on this block are low-income. Some of us have been here for over 40 years.
 
