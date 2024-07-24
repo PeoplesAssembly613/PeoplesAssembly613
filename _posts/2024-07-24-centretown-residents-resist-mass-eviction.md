@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""I’m not going to be a statistic in this housing crisis""
+title:  "'I am not going to be a statistic in this housing crisis'"
 subtitle: "Centretown Residents Resist Mass Eviction"
 categories: [articles]
 image: 
