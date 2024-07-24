@@ -6,6 +6,7 @@ categories: [articles, bank block tenants]
 image: assets/images/BBT-we-live-here.png
 featured: true
 ---
+*Image credit: [Colin White](https://www.instagram.com/colinwhite?igsh=MWpkazRhYm1zdGdsdQ==)*
 
 #### Smart Living Properties, via 211-231 Bank Street Holdings targets Bank Block Tenants with mass eviction
 
