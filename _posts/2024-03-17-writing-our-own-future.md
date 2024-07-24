@@ -5,7 +5,7 @@ subtitle: An Interview With the East Scarborough Tenants Union
 categories:
   - articles
 image: assets/images/estu-header.png
-featured: true
+featured: false
 author:
 ---
 
