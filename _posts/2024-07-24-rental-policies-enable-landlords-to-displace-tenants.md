@@ -3,8 +3,8 @@ layout: post
 title:  "Rental policies enable landlords to displace tenants"
 subtitle:
 categories: [articles]
-image: 
-featured: false
+image: assets/images/BBT-we-live-here.png
+featured: true
 ---
 
 #### Smart Living Properties, via 211-231 Bank Street Holdings targets Bank Block Tenants with mass eviction
