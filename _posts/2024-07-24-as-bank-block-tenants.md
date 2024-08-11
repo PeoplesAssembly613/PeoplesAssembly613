@@ -7,7 +7,7 @@ image: assets/images/BBT-drawing.jpg
 featured: true
 ---
 
-*Image credit: [Colin White](https://www.instagram.com/colinwhite?igsh=MWpkazRhYm1zdGdsdQ==)*
+*Image credit: Julie Ivanoff*
 
 ---
 
