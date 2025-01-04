@@ -4,7 +4,7 @@ title:  "'I am not going to be a statistic in this housing crisis'"
 subtitle: "Centretown Residents Resist Mass Eviction"
 categories: [articles, bank block tenants]
 image: assets/images/BBT-evictions.png
-featured: true
+featured: false
 ---
 *Image credit: [Colin White](https://www.instagram.com/colinwhite?igsh=MWpkazRhYm1zdGdsdQ==)*
 
