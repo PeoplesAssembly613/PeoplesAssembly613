@@ -4,7 +4,7 @@ title:  "Rental policies enable landlords to displace tenants"
 subtitle:
 categories: [articles, bank block tenants]
 image: assets/images/BBT-we-live-here.png
-featured: true
+featured: false
 ---
 *Image credit: [Colin White](https://www.instagram.com/colinwhite?igsh=MWpkazRhYm1zdGdsdQ==)*
 
