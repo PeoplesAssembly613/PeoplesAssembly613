@@ -4,7 +4,7 @@ title: Don’t “Settle” for the Landlord and Tenant Board
 subtitle: 
 categories:
   - articles
-image: assets/images/tenants-confront-landlord.png
+image:
 featured: true
 author:
 ---
@@ -13,13 +13,15 @@ After their landlord Tamer Abaza, CEO of Smart Living properties (SLP), has refu
 
 BBT was joined by community supporters in Rockcliffe Park, where together they marched to Abaza’s mansion, surrounded by a tall black metal fence. The tenants managed to approach and knock on the front door, but Abaza refused to answer. The tenants left a letter of their demands at his doorstep, which included that Abaza withdraw the N13 eviction notices, meet with the tenants, and cease threats of eviction and intimidation tactics. The tenants and supporters continued their march through the neighbourhood, informing Rockcliffe Park residents of BBT’s fight to save their homes.
 
+![Bank Block Tenants and community supporters outside Abaza’s home in Rockcliffe park]({{ site.baseurl }}/assets/images/tenants-confront-landlord2.png)
+
 Sunday’s attempt to confront Abaza at his home follows an earlier attempt this fall to demand a meeting. In September, BBT marched alongside neighbours and community supporters to the SLP head office in Centretown. The tenants demanded Abaza and COO Rakan Abushaar meet with them, but were met with locked doors, closed blinds, and unanswered phone calls despite people being in the office. SLP executive Jules Lauzon was caught entering the SLP office, and when asked if Abaza and Abushaar would meet with the tenants, responded, *“That’s not going to happen.”*
 
 There has been unprecedented opposition from the community to SLP’s proposed development in the City of Ottawa’s feedback portal. The project has not yet been approved by the City of Ottawa, and BBT has worked tirelessly in their outreach to connect with neighbours and community members. The tenants’ struggle to defend their homes has struck a chord with renters downtown Ottawa, who are increasingly concerned with the rise of displacement and housing insecurity through “renovictions” and “demovictions” throughout the city. SLP’s development project on Bank St. proposes to replace the current tenants’ homes with small, poorly designed, short-term rentals (mostly studios and 1-bedrooms), which would be approximately three to five times the current rental rates in the building. 
 
 *“The rent controlled, low-income households currently targeted on this block are extremely limited relative to demand. On the other hand, there is already an abundant supply of units similar to the proposed units. What are we trying to achieve with increased density?” - Eric, tenant living at 227, Bank St.*
 
-![Bank Block Tenants and community supporters outside Abaza’s home in Rockcliffe park.](assets/images/tenants-confront-landlord2.png)
+![Bank Block Tenants and community supporters outside Abaza’s home in Rockcliffe park]({{ site.baseurl }}/assets/images/tenants-confront-landlord2.png)
 
 SLP has tried to distance themself from the criticism they are receiving from BBT supporters, and have since undertaken a rebranding process, changing their name to “Dwell”. SLP has earned a negative reputation amongst renters in Ottawa, who are aware of SLP’s contentious local history of targeting working class housing for evictions, squeezing students for rent, and suspicious fires in their properties. Multiple apartment buildings have been subject to mass eviction under Tamar Abaza’s ownership and control, suggesting these violations are practiced systematically and are part of SLP’s profit-making plan across the city. 
 
