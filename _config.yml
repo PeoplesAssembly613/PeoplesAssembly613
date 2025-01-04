@@ -27,7 +27,7 @@ authors:
     display_name: Basil    
     avatar: 'assets/images/avatar.png'
     gravatar: 
-    email: wowthemesnet@gmail.com
+    email: 
     web: https://www.ourturn.ca
     twitter: 
     description: "A contributor to Our Turn. Based in Ottawa"
@@ -36,10 +36,29 @@ authors:
     display_name: Sean Ryan  
     avatar: 'assets/images/avatar.png'
     gravatar: 
-    email: wowthemesnet@gmail.com
+    email: 
     web: https://www.ourturn.ca
     twitter: 
     description:
+  ethanmitchell:
+    name: Ethan Mitchell
+    display_name: Ethan Mitchell  
+    avatar: 
+    gravatar: 
+    email: 
+    web: https://www.ourturn.ca
+    twitter: 
+    description:
+  benemond:
+    name: Ben Emond
+    display_name: Ben Emond
+    avatar: 
+    gravatar: 
+    email: 
+    web: https://www.ourturn.ca
+    twitter: 
+    description:
+    
 
 # Plugins
 plugins:
