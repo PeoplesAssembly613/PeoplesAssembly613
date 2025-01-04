@@ -6,7 +6,7 @@ categories:
   - articles
 image: assets/images/who-is-dwell.jpg
 featured: false
-author: Ethan Mitchell
+author: ethanmitchell
 ---
 Tamer Abaza and his company Smart Living Properties, notorious for their history of mass evictions, are currently attempting a rebrand in Sandy Hill. Smart Living Properties (SLP) signs in the neighbourhood have been replaced by signs reading “Dwell”, the new name that the company is using to operate in the neighbourhood.
 
