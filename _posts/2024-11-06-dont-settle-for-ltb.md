@@ -6,7 +6,7 @@ categories:
   - articles
 image: assets/images/dont-settle.jpg
 featured: false
-author: Ben Emond
+author: benemond
 ---
 My tenant association, Bank Block Tenants (BBT), is a group of tenants representing two buildings in downtown Ottawa, namely 227 Bank St and 178 Nepean Street. We are fighting a demoviction so that we can keep our homes.  Before BBT formed in the late fall of 2023, I had minimal experience with the LTB. About 11 years ago when I lived in the Glebe, my neighbor, James, asked me to be a witness in his eviction hearing. The landlord had accused him of purposely sabotaging the pipes in his kitchen and bathroom to cause damage. However, James showed me that due to the extreme cold of winter, his pipes were frozen. The exposure of the pipes to the extreme cold was the reason they broke since there was no insulation protecting them, not because James sabotaged the pipes (which would have been quite self-defeating I might add).
 
