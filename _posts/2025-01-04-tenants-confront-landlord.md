@@ -13,7 +13,7 @@ After their landlord Tamer Abaza, CEO of Smart Living properties (SLP), has refu
 
 BBT was joined by community supporters in Rockcliffe Park, where together they marched to Abaza’s mansion, surrounded by a tall black metal fence. The tenants managed to approach and knock on the front door, but Abaza refused to answer. The tenants left a letter of their demands at his doorstep, which included that Abaza withdraw the N13 eviction notices, meet with the tenants, and cease threats of eviction and intimidation tactics. The tenants and supporters continued their march through the neighbourhood, informing Rockcliffe Park residents of BBT’s fight to save their homes.
 
-![Bank Block Tenants and community supporters outside Abaza’s home in Rockcliffe park]({{ site.baseurl }}/assets/images/tenants-confront-landlord2.png)
+![Bank Block Tenants and community supporters outside Abaza’s home in Rockcliffe park]({{ site.baseurl }}/assets/images/tenants-confront-landlord.png)
 
 Sunday’s attempt to confront Abaza at his home follows an earlier attempt this fall to demand a meeting. In September, BBT marched alongside neighbours and community supporters to the SLP head office in Centretown. The tenants demanded Abaza and COO Rakan Abushaar meet with them, but were met with locked doors, closed blinds, and unanswered phone calls despite people being in the office. SLP executive Jules Lauzon was caught entering the SLP office, and when asked if Abaza and Abushaar would meet with the tenants, responded, *“That’s not going to happen.”*
 
