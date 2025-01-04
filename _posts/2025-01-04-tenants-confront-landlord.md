@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don’t “Settle” for the Landlord and Tenant Board 
+title: BANK BLOCK TENANTS CONFRONT LANDLORD AT HOME IN ROCKCLIFFE PARK
 subtitle: 
 categories:
   - articles
