@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BANK BLOCK TENANTS CONFRONT LANDLORD AT HOME IN ROCKCLIFFE PARK
+title: Bank Block Tenants Confront Landlord at Home in Rockliffe Park
 subtitle: 
 categories:
   - articles
